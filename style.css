@@ -605,6 +605,7 @@ body {
   margin-top: 11px;
   margin-bottom: 10px;
   background-color: #e5b66c;
+  border: none;
 }
 
 .deliver__form-textarea {
